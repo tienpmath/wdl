@@ -51,12 +51,12 @@ const HeaderOne = () => {
                     <div className="tgmenu__navbar-wrap tgmenu__main-menu d-none d-xl-flex">
                       <NavMenu />
                     </div>
-                    <div className="tgmenu__search d-none d-md-block">
+                    {/* <div className="tgmenu__search d-none d-md-block">
                       <CustomSelect
                         value={selectedOption}
                         onChange={handleSelectChange}
                       />
-                    </div>
+                    </div> */}
                     <div className="tgmenu__action">
                       <ul className="list-wrap">
                         <li className="wishlist-icon">
@@ -80,7 +80,9 @@ const HeaderOne = () => {
                           </Link>
                         </li>
                         <li className="header-btn login-btn">
-                          <Link href="/login">Log in</Link>
+                          <Link href="https://zalo.me/0944838788">
+                            Zalo 0944838788
+                          </Link>
                         </li>
                       </ul>
                     </div>

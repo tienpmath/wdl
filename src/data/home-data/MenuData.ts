@@ -27,7 +27,7 @@ interface MenuItem {
 const menu_data: MenuItem[] = [
   {
     id: 1,
-    title: "Home",
+    title: "Trang Chủ",
     link: "#",
     menu_class: "mega-menu",
     children: "menu-item-has-children",
@@ -87,7 +87,7 @@ const menu_data: MenuItem[] = [
   },
   {
     id: 2,
-    title: "Courses",
+    title: "Dịch vụ",
     link: "#",
     children: "menu-item-has-children",
     // sub_menus: [
@@ -98,7 +98,7 @@ const menu_data: MenuItem[] = [
   },
   {
     id: 3,
-    title: "Pages",
+    title: "Dự án",
     link: "#",
     // sub_menus: [
     //   { link: "/about-us", title: "About Us" },

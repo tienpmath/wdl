@@ -12,8 +12,8 @@ const Blog = ({ style }: any) => {
           <div className="col-lg-6">
             <div className="section__title text-center mb-40">
               <span className="sub-title">Tin tức & Blog Tech </span>
-              <h2 className="title">Our Latest News Feed</h2>
-              <p>when known printer took a galley of type scrambl edmake</p>
+              <h2 className="title">Tin tức Webdalat</h2>
+              <p>Chia sẻ và thành công</p>
             </div>
           </div>
         </div>
